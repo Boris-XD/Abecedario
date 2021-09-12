@@ -1,0 +1,56 @@
+.letras {
+    width: 55px;
+    height: 55px;
+    background-color: aquamarine;
+    font-size: 3rem;
+    border-radius: 30%;
+    text-align: center;
+    border-color: blue;
+    border-style: solid;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    color: slateblue;
+    display: inline-block;
+    margin: 5px;
+}
+
+.letrasSelect {
+    width: 55px;
+    height: 55px;
+    background-color: rgb(2, 15, 133);
+    font-size: 3rem;
+    border-radius: 30%;
+    text-align: center;
+    border-color: rgb(4, 133, 165);
+    border-style: solid;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin: 5px;
+}
+.check {
+    background-color: rgb(124, 0, 58);
+    color: rgb(255, 255, 255);
+    
+}
+
+.contenedor{
+    background-color: rgb(65, 64, 64);
+}
+
+.resultado{
+    background-color: rgb(65, 65, 65);
+}
+
+body{
+    background-color: black;
+}
+header{
+    font-weight: bold;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(238, 235, 235);
+    text-shadow: rgb(174, 174, 177) 2px 2px 0.3px;
+}
+
